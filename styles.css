@@ -46,9 +46,9 @@ nav ul li a {
     text-align: center;
 }
 
-.contenido-banner {
-    max-width: 800px;
-    margin: 0 auto;
+.contenido-banner img {
+    max-width: 20%;
+    height: auto;
 }
 
 .redes a {
